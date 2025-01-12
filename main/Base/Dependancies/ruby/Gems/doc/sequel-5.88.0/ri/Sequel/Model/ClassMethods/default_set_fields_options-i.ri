@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"default_set_fields_options:ETI";Sequel::Model::ClassMethods#default_set_fields_options;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"MThe default options to use for Model#set_fields.  These are merged with ;TI"%the options given to set_fields.;T:
+@fileI"lib/sequel/model/base.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Sequel::Model::ClassMethods;TcRDoc::NormalModule0

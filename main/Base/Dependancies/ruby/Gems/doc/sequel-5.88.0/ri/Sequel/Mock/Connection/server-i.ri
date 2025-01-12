@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"server:ETI"$Sequel::Mock::Connection#server;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<Shard this connection operates on, when using Sequel's ;TI"?sharding support (always :default for databases not using ;TI"sharding).;T:
+@fileI" lib/sequel/adapters/mock.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Mock::Connection;TcRDoc::NormalClass0

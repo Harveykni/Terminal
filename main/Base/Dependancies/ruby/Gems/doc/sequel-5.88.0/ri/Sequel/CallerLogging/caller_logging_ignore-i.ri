@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"caller_logging_ignore:ETI"0Sequel::CallerLogging#caller_logging_ignore;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"VA regexp of caller lines to ignore, in addition to internal Sequel and Ruby code.;T:
+@fileI",lib/sequel/extensions/caller_logging.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::CallerLogging;TcRDoc::NormalModule0

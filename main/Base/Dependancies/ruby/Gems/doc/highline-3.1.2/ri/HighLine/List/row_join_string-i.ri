@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"row_join_string:ETI"#HighLine::List#row_join_string;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"!Set the {#row_join_string}. ;TI"@see #row_join_string;T:
+@fileI"lib/highline/list.rb;T:0@omit_headings_from_table_of_contents_below0F@I"HighLine::List;TcRDoc::NormalClass0

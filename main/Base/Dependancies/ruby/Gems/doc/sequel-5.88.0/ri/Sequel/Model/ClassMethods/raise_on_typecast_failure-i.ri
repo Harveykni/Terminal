@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"raise_on_typecast_failure:ETI":Sequel::Model::ClassMethods#raise_on_typecast_failure;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IWhether to raise an error when unable to typecast data for a column ;TI"M(default: false).  This should be set to true if you want to have model ;TI"Msetter methods raise errors if the argument cannot be typecast properly.;T:
+@fileI"lib/sequel/model/base.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Sequel::Model::ClassMethods;TcRDoc::NormalModule0

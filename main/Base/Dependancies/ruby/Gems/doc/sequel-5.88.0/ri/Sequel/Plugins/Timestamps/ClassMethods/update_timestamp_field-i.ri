@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"update_timestamp_field:ETI"ESequel::Plugins::Timestamps::ClassMethods#update_timestamp_field;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I",The field to store the update timestamp;T:
+@fileI"%lib/sequel/plugins/timestamps.rb;T:0@omit_headings_from_table_of_contents_below0F@I".Sequel::Plugins::Timestamps::ClassMethods;TcRDoc::NormalModule0

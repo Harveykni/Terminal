@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"description:ETI",Cucumber::Messages::Feature#description;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"TThe line(s) underneath the line with the `keyword` that are used as description;T:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Cucumber::Messages::Feature;TcRDoc::NormalClass0

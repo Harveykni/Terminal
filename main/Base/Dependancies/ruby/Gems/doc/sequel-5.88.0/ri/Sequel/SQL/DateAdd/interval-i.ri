@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"interval:ETI""Sequel::SQL::DateAdd#interval;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I":The interval added to the expression, as a hash with ;TI"symbol keys.;T:
+@fileI"-lib/sequel/extensions/date_arithmetic.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::SQL::DateAdd;TcRDoc::NormalClass0

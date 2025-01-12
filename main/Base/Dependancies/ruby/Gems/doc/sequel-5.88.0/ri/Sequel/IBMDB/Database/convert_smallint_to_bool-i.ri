@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"convert_smallint_to_bool:ETI"5Sequel::IBMDB::Database#convert_smallint_to_bool;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"JWhether to convert smallint values to bool for this Database instance;T:
+@fileI"!lib/sequel/adapters/ibmdb.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::IBMDB::Database;TcRDoc::NormalClass0

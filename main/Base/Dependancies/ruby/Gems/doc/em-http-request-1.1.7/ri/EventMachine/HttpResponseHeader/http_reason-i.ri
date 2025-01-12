@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"http_reason:ETI"1EventMachine::HttpResponseHeader#http_reason;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"BThe reason returned in the http response (string - e.g. "OK");T:
+@fileI"lib/em-http/http_header.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%EventMachine::HttpResponseHeader;TcRDoc::NormalClass0

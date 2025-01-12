@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"server_version:ETI"*Sequel::Mock::Database#server_version;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"CMock the server version, useful when using the shared adapters;T:
+@fileI" lib/sequel/adapters/mock.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Mock::Database;TcRDoc::NormalClass0

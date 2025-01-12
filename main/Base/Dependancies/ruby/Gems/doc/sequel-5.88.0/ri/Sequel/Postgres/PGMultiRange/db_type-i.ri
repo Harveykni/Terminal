@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"db_type:ETI"+Sequel::Postgres::PGMultiRange#db_type;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"9The type of this multirange (e.g. 'int4multirange').;T:
+@fileI"+lib/sequel/extensions/pg_multirange.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Sequel::Postgres::PGMultiRange;TcRDoc::NormalClass0

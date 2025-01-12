@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"db_type:ETI".Sequel::Postgres::PGRow::HashRow::db_type;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AThe database type for this class.  May be nil if this class ;TI",done not have a specific database type.;T:
+@fileI"$lib/sequel/extensions/pg_row.rb;T:0@omit_headings_from_table_of_contents_below0T@I"%Sequel::Postgres::PGRow::HashRow;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cti_models:ETI"DSequel::Plugins::ClassTableInheritance::ClassMethods#cti_models;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AAn array of each model in the inheritance hierarchy that is ;TI"backed by a new table.;T:
+@fileI"2lib/sequel/plugins/class_table_inheritance.rb;T:0@omit_headings_from_table_of_contents_below0F@I"9Sequel::Plugins::ClassTableInheritance::ClassMethods;TcRDoc::NormalModule0

@@ -1,0 +1,8 @@
+U:RDoc::Attr[iI"columns:ETI"#Sequel::Mock::Database#columns;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"DSet the columns to set in the dataset when the dataset fetches ;TI"%rows.  Argument types supported:;To:RDoc::Markup::List:
+@type:	NOTE:@items[	o:RDoc::Markup::ListItem:@label[I"	nil ;T;	[o;
+;	[I"Set no columns;To;;[I"Array of Symbols ;T;	[o;
+;	[I"Used for all datasets;To;;[I"Array (otherwise) ;T;	[o;
+;	[I"1First retrieval gets the first value in the ;TI".array, second gets the second value, etc.;To;;[I"
+Proc ;T;	[o;
+;	[I"6Called with the select SQL query, uses the value ;TI"2returned, which should be an array of symbols;T:
+@fileI" lib/sequel/adapters/mock.rb;T:0@omit_headings_from_table_of_contents_below0F@0I"Sequel::Mock::Database;TcRDoc::NormalClass0

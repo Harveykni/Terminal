@@ -1,0 +1,20 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ukl1hz sitelibdir\=./.gem.20250110-1012-ukl1hz clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ukl1hz sitelibdir\=./.gem.20250110-1012-ukl1hz
+generating fastfilereaderext-x64-mingw-ucrt.def
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ukl1hz sitelibdir\=./.gem.20250110-1012-ukl1hz install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250110-1012-ukl1hz
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ukl1hz sitelibdir\=./.gem.20250110-1012-ukl1hz clean

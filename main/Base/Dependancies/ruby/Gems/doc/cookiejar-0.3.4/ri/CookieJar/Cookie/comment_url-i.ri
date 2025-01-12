@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"comment_url:ETI""CookieJar::Cookie#comment_url;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:
+LABEL:@items[o:RDoc::Markup::ListItem:@label[I"String;T;	[o:RDoc::Markup::Paragraph;	[I":RFC 2965 field for indicating comment (or a location);To;;	[I",describing the cookie to a usesr agent.;T:
+@fileI"lib/cookiejar/cookie.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CookieJar::Cookie;TcRDoc::NormalClass0

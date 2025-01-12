@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"convert_smallint_to_bool:ETI"BSequel::SqlAnywhere::DatabaseMethods#convert_smallint_to_bool;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OSet whether to convert smallint type to boolean for this Database instance;T:
+@fileI".lib/sequel/adapters/shared/sqlanywhere.rb;T:0@omit_headings_from_table_of_contents_below0F@I")Sequel::SqlAnywhere::DatabaseMethods;TcRDoc::NormalModule0

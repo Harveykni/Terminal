@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"unescape_bytea:ETI""PG::Connection#unescape_bytea;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"WConverts an escaped string representation of binary data into binary data --- the ;TI"[reverse of #escape_bytea. This is needed when retrieving +bytea+ data in text format, ;TI"1but not when retrieving it in binary format.;T:
+@fileI"ext/pg_connection.c;T:0@omit_headings_from_table_of_contents_below0I"-PG::Connection.unescape_bytea( string )
+;T0[[@o;;	[o;
+;	[I"WConverts an escaped string representation of binary data into binary data --- the ;TI"[reverse of #escape_bytea. This is needed when retrieving +bytea+ data in text format, ;TI"1but not when retrieving it in binary format.;T;@;0I"	(p1);T@FI"Connection;TcRDoc::NormalClass00

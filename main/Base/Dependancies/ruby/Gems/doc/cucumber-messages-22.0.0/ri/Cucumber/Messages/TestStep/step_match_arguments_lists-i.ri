@@ -1,0 +1,3 @@
+U:RDoc::Attr[iI"step_match_arguments_lists:ETI"<Cucumber::Messages::TestStep#step_match_arguments_lists;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"JA list of list of StepMatchArgument (if derived from a `PickleStep`).;To:RDoc::Markup::Verbatim;	[I"XEach element represents a matching step definition. A size of 0 means `UNDEFINED`,
+;TI"'and a size of 2+ means `AMBIGUOUS`;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Cucumber::Messages::TestStep;TcRDoc::NormalClass0

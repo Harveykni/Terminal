@@ -1,0 +1,3 @@
+U:RDoc::AnyMethod[iI"require:ETI""Sequel::SequelMethods#require;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"PFor backwards compatibility only.  require_relative should be used instead.;T:
+@fileI"lib/sequel/core.rb;T:0@omit_headings_from_table_of_contents_below000[[I"orig_require;To;;	[o;
+;	[I"IAlias of original require method, as Sequel.require does a relative ;TI")require for backwards compatibility.;T;@;0I"(files, subdir=nil);T@FI"SequelMethods;TcRDoc::NormalModule00

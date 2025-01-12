@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"allowed_columns:ETI"ESequel::Plugins::WhitelistSecurity::ClassMethods#allowed_columns;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"gWhich columns should be the only columns allowed in a call to a mass assignment method (e.g. set) ;TI"M(default: not set, so all columns not otherwise restricted are allowed).;T:
+@fileI"-lib/sequel/plugins/whitelist_security.rb;T:0@omit_headings_from_table_of_contents_below0F@I"5Sequel::Plugins::WhitelistSecurity::ClassMethods;TcRDoc::NormalModule0

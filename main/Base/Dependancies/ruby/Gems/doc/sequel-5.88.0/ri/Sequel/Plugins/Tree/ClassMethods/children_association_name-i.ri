@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"children_association_name:ETI"BSequel::Plugins::Tree::ClassMethods#children_association_name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"6The association name for the children association;T:
+@fileI"lib/sequel/plugins/tree.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(Sequel::Plugins::Tree::ClassMethods;TcRDoc::NormalModule0

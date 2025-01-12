@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"use_transactions:ETI"1Sequel::Model::ClassMethods#use_transactions;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"[Whether to use a transaction by default when saving/deleting records (default: true). ;TI"\If you are sending database queries in before_* or after_* hooks, you shouldn't change ;TI"/the default setting without a good reason.;T:
+@fileI"lib/sequel/model/base.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Sequel::Model::ClassMethods;TcRDoc::NormalModule0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"convert_tinyint_to_bool:ETI"5Sequel::Mysql2::Database#convert_tinyint_to_bool;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AWhether to convert tinyint columns to bool for this database;T:
+@fileI""lib/sequel/adapters/mysql2.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Mysql2::Database;TcRDoc::NormalClass0

@@ -1,0 +1,3 @@
+U:RDoc::AnyMethod[iI"lo_read:ETI"PG::Connection#lo_read;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?Attempts to read _len_ bytes from large object _lo_desc_, ;TI"returns resulting data.;T:
+@fileI"ext/pg_connection.c;T:0@omit_headings_from_table_of_contents_below0I",conn.lo_read( lo_desc, len ) -> String
+;T0[[I"loread;T@	I"(p1, p2);T@FI"Connection;TcRDoc::NormalClass00

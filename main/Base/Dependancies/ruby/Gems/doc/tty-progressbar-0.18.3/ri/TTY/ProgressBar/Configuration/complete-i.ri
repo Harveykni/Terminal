@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"complete:ETI"-TTY::ProgressBar::Configuration#complete;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"2The complete character in progress animation ;TI"@api public;T:
+@fileI")lib/tty/progressbar/configuration.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$TTY::ProgressBar::Configuration;TcRDoc::NormalClass0

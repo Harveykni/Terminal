@@ -1,0 +1,23 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/byebug-11.1.3/ext/byebug
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ammbjh sitelibdir\=./.gem.20250110-1012-ammbjh clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ammbjh sitelibdir\=./.gem.20250110-1012-ammbjh
+generating byebug-x64-mingw-ucrt.def
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ammbjh sitelibdir\=./.gem.20250110-1012-ammbjh install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20250110-1012-ammbjh/byebug
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-ammbjh sitelibdir\=./.gem.20250110-1012-ammbjh clean

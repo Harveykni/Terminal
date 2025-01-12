@@ -1,0 +1,19 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/pathname-0.4.0/ext/pathname
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/pathname-0.4.0/ext/pathname
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nhfsf8 sitelibdir\=./.gem.20250110-1012-nhfsf8 clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/pathname-0.4.0/ext/pathname
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nhfsf8 sitelibdir\=./.gem.20250110-1012-nhfsf8
+generating pathname-x64-mingw-ucrt.def
+compiling pathname.c
+linking shared-object pathname.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/pathname-0.4.0/ext/pathname
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nhfsf8 sitelibdir\=./.gem.20250110-1012-nhfsf8 install
+/usr/bin/install -c -m 0755 pathname.so ./.gem.20250110-1012-nhfsf8
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/pathname-0.4.0/ext/pathname
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nhfsf8 sitelibdir\=./.gem.20250110-1012-nhfsf8 clean

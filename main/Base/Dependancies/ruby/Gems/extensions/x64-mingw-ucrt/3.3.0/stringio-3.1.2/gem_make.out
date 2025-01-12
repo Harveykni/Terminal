@@ -1,0 +1,19 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/stringio-3.1.2/ext/stringio
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-qyofz8 sitelibdir\=./.gem.20250110-1012-qyofz8 clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-qyofz8 sitelibdir\=./.gem.20250110-1012-qyofz8
+generating stringio-x64-mingw-ucrt.def
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-qyofz8 sitelibdir\=./.gem.20250110-1012-qyofz8 install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20250110-1012-qyofz8
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-qyofz8 sitelibdir\=./.gem.20250110-1012-qyofz8 clean

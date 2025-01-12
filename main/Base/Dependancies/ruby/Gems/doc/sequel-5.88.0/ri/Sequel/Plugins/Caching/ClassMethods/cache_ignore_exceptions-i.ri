@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cache_ignore_exceptions:ETI"CSequel::Plugins::Caching::ClassMethods#cache_ignore_exceptions;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"RIf true, ignores exceptions when gettings cached records (the memcached API).;T:
+@fileI""lib/sequel/plugins/caching.rb;T:0@omit_headings_from_table_of_contents_below0F@I"+Sequel::Plugins::Caching::ClassMethods;TcRDoc::NormalModule0

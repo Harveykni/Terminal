@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"converter:ETI"1Sequel::Postgres::PGArray::Creator#converter;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"GThe converter callable that is called on each member of the array ;TI"'to convert it to the correct type.;T:
+@fileI"&lib/sequel/extensions/pg_array.rb;T:0@omit_headings_from_table_of_contents_below0F@I"'Sequel::Postgres::PGArray::Creator;TcRDoc::NormalClass0

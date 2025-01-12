@@ -1,0 +1,9 @@
+U:RDoc::Attr[iI"content_encoding:ETI"4Cucumber::Messages::Attachment#content_encoding;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*;To:RDoc::Markup::Verbatim;	[I"bWhether to interpret `body` "as-is" (IDENTITY) or if it needs to be Base64-decoded (BASE64).
+;TI"
+;TI"TContent encoding is *not* determined by the media type, but rather by the type
+;TI"#of the object being attached:
+;TI"
+;TI"- string: IDENTITY
+;TI"- byte array: BASE64
+;TI"- stream: BASE64;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Cucumber::Messages::Attachment;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"$auto_validate_min_value_columns:ETI"SSequel::Plugins::AutoValidations::ClassMethods#auto_validate_min_value_columns;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"FThe columns with automatch min value validations, as an array of ;TI"`pairs, with the first entry being the column name and second entry being the minimum value.;T:
+@fileI"+lib/sequel/plugins/auto_validations.rb;T:0@omit_headings_from_table_of_contents_below0F@I"3Sequel::Plugins::AutoValidations::ClassMethods;TcRDoc::NormalModule0

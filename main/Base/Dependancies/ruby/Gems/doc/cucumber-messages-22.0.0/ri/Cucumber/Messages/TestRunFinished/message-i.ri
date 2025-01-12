@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"message:ETI"0Cucumber::Messages::TestRunFinished#message;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"tAn informative message about the test run. Typically additional information about failure, but not necessarily.;T:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(Cucumber::Messages::TestRunFinished;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"step_definition_ids:ETI"5Cucumber::Messages::TestStep#step_definition_ids;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"SPointer to all the matching `StepDefinition`s (if derived from a `PickleStep`);T:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Cucumber::Messages::TestStep;TcRDoc::NormalClass0

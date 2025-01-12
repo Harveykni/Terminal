@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"	name:ETI"CookieJar::Cookie#name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:
+LABEL:@items[o:RDoc::Markup::ListItem:@label[I"String;T;	[o:RDoc::Markup::Paragraph;	[I"The name of the cookie.;T:
+@fileI"lib/cookiejar/cookie.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CookieJar::Cookie;TcRDoc::NormalClass0

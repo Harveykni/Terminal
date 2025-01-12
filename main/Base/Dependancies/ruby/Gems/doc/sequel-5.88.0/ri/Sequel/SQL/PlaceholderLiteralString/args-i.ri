@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	args:ETI"/Sequel::SQL::PlaceholderLiteralString#args;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[	I"BThe arguments that will be subsituted into the placeholders. ;TI"KEither an array of unnamed placeholders (which will be substituted in ;TI"Morder for ? characters), or a hash of named placeholders (which will be ;TI"#substituted for :key phrases).;T:
+@fileI"lib/sequel/sql.rb;T:0@omit_headings_from_table_of_contents_below0F@I"*Sequel::SQL::PlaceholderLiteralString;TcRDoc::NormalClass0

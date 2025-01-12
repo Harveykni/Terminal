@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"caller_logging_formatter:ETI"3Sequel::CallerLogging#caller_logging_formatter;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"-A callable to format the external caller;T:
+@fileI",lib/sequel/extensions/caller_logging.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::CallerLogging;TcRDoc::NormalModule0

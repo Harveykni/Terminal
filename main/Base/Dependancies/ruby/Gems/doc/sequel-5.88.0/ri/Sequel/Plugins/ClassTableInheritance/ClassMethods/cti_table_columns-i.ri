@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cti_table_columns:ETI"KSequel::Plugins::ClassTableInheritance::ClassMethods#cti_table_columns;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@An array of column symbols for the backing database table, ;TI"Agiving the columns to update in each backing database table.;T:
+@fileI"2lib/sequel/plugins/class_table_inheritance.rb;T:0@omit_headings_from_table_of_contents_below0F@I"9Sequel::Plugins::ClassTableInheritance::ClassMethods;TcRDoc::NormalModule0

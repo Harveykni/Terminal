@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"typecast_json_strings:ETI"@Sequel::Postgres::JSONDatabaseMethods#typecast_json_strings;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I">Whether to typecast strings for json/jsonb types as JSON ;TI"=strings, instead of trying to parse the string as JSON. ;TI"False by default.;T:
+@fileI"%lib/sequel/extensions/pg_json.rb;T:0@omit_headings_from_table_of_contents_below0F@I"*Sequel::Postgres::JSONDatabaseMethods;TcRDoc::NormalModule0

@@ -1,0 +1,26 @@
+U:RDoc::Attr[iI"	opts:ETI"Sequel::SQL::Window#opts;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?The options for this window.  Options currently supported:;To:RDoc::Markup::List:
+@type:	NOTE:@items[	o:RDoc::Markup::ListItem:@label[I":frame ;T;	[o;
+;	[I"Oif specified, should be :all, :rows, :range, :groups, a String, or a Hash.;To;;;;[
+o;;[I"
+:all ;T;	[o;
+;	[I"3Always operates over all rows in the partition;To;;[I":rows ;T;	[o;
+;	[I"GIncludes rows in the partition up to and including the current row;To;;[I":range, :groups ;T;	[o;
+;	[I"IIncludes rows in the partition up to and including the current group;To;;[I"String ;T;	[o;
+;	[I"+Used as literal SQL code, try to avoid;To;;[I"
+Hash ;T;	[o;
+;	[I"#Hash of options for the frame:;To;;;;[	o;;[I":type ;T;	[o;
+;	[I"DThe type of frame, must be :rows, :range, or :groups (required);To;;[I":start ;T;	[o;
+;	[I"9The start of the frame (required).  Possible values:;To;;;;[
+o;;[I":preceding ;T;	[o;
+;	[I"UNBOUNDED PRECEDING;To;;[I":following ;T;	[o;
+;	[I"UNBOUNDED FOLLOWING;To;;[I":current ;T;	[o;
+;	[I"CURRENT ROW;To;;[I"String, Numeric, or Cast ;T;	[o;
+;	[I"0Used as the offset of rows/values preceding;To;;[I"Array ;T;	[o;
+;	[I"JMust have two elements, with first element being String, Numeric, or ;TI";Cast and second element being :preceding or :following;To;;[I"
+:end ;T;	[o;
+;	[I"SThe end of the frame.  Can be left out.  If present, takes the same values as ;TI"S:start, except that when a String, Numeric, or Hash, it is used as the offset ;TI"for rows following;To;;[I":exclude ;T;	[o;
+;	[I"IWhich rows to exclude.  Possible values are :current, :ties, :group ;TI":no_others.;To;;[I":order ;T;	[o;
+;	[I"!order on the column(s) given;To;;[I":partition ;T;	[o;
+;	[I"+partition/group on the column(s) given;To;;[I":window ;T;	[o;
+;	[I"8base results on a previously specified named window;T:
+@fileI"lib/sequel/sql.rb;T:0@omit_headings_from_table_of_contents_below0F@”I"Sequel::SQL::Window;TcRDoc::NormalClass0

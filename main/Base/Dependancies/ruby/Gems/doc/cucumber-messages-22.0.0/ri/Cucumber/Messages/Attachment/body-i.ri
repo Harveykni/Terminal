@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"	body:ETI"(Cucumber::Messages::Attachment#body;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*;To:RDoc::Markup::Verbatim;	[I"TThe body of the attachment. If `contentEncoding` is `IDENTITY`, the attachment
+;TI"Tis simply the string. If it's `BASE64`, the string should be Base64 decoded to
+;TI"obtain the attachment.;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Cucumber::Messages::Attachment;TcRDoc::NormalClass0

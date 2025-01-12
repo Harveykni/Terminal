@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"ast_node_ids:ETI",Cucumber::Messages::Pickle#ast_node_ids;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*;To:RDoc::Markup::Verbatim;	[I"XPoints to the AST node locations of the pickle. The last one represents the unique
+;TI"Pid of the pickle. A pickle constructed from `Examples` will have the first
+;TI"^id originating from the `Scenario` AST node, and the second from the `TableRow` AST node.;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Cucumber::Messages::Pickle;TcRDoc::NormalClass0

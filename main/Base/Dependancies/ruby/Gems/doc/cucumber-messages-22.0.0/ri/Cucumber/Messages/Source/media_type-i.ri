@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"media_type:ETI"*Cucumber::Messages::Source#media_type;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"MThe media type of the file. Can be used to specify custom types, such as;To:RDoc::Markup::Verbatim;	[I""text/x.cucumber.gherkin+plain;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Cucumber::Messages::Source;TcRDoc::NormalClass0

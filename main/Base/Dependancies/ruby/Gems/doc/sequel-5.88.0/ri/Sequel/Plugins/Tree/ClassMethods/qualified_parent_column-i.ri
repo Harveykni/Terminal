@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"qualified_parent_column:ETI"@Sequel::Plugins::Tree::ClassMethods#qualified_parent_column;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OThe qualified identifier or array of qualified identifiers for the column ;TI"=containing the value pointing to the parent of the node.;T:
+@fileI"lib/sequel/plugins/tree.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(Sequel::Plugins::Tree::ClassMethods;TcRDoc::NormalModule0

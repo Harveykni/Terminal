@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	opts:ETI"Sequel::Dataset#opts;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<The hash of options for this dataset, keys are symbols.;T:
+@fileI"lib/sequel/dataset/misc.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Dataset;TcRDoc::NormalClassI"6 - Miscellaneous methods;T

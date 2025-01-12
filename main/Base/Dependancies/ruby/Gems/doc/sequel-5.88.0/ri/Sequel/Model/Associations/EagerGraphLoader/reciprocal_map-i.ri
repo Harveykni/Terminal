@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"reciprocal_map:ETI"ASequel::Model::Associations::EagerGraphLoader#reciprocal_map;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"QHash with table alias symbol keys and reciprocal association symbol values, ;TI"?used for setting reciprocals for one_to_many associations.;T:
+@fileI"%lib/sequel/model/associations.rb;T:0@omit_headings_from_table_of_contents_below0F@I"2Sequel::Model::Associations::EagerGraphLoader;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"order_expr:ETI"&Sequel::SQL::StringAgg#order_expr;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"7The expression that the aggregation is ordered by.;T:
+@fileI"(lib/sequel/extensions/string_agg.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::SQL::StringAgg;TcRDoc::NormalClass0

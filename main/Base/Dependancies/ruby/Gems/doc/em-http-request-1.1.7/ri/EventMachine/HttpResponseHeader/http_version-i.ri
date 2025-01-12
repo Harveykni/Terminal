@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"http_version:ETI"2EventMachine::HttpResponseHeader#http_version;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4The HTTP version returned (string - e.g. "1.1");T:
+@fileI"lib/em-http/http_header.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%EventMachine::HttpResponseHeader;TcRDoc::NormalClass0

@@ -1,0 +1,5 @@
+U:RDoc::Attr[iI"version:ETI"CookieJar::Cookie#version;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:
+LABEL:@items[o:RDoc::Markup::ListItem:@label[I"Fixnum;T;	[o:RDoc::Markup::Paragraph;	[I"(Version indicator, currently either;To;
+;:BULLET;[o;;0;	[o;;	[I"0 for netscape cookies;To;;0;	[o;;	[I"1 for RFC 2965 cookies;T:
+@fileI"lib/cookiejar/cookie.rb;T:0@omit_headings_from_table_of_contents_below0F@!I"CookieJar::Cookie;TcRDoc::NormalClass0

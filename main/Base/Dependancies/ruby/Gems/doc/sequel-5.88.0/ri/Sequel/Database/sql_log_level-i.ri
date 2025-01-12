@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"sql_log_level:ETI"#Sequel::Database#sql_log_level;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"ILog level at which to log SQL queries.  This is actually the method ;TI"Msent to the logger, so it should be the method name symbol. The default ;TI"=is :info, it can be set to :debug to log at DEBUG level.;T:
+@fileI"#lib/sequel/database/logging.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Database;TcRDoc::NormalClassI"$6 - Methods relating to logging;T

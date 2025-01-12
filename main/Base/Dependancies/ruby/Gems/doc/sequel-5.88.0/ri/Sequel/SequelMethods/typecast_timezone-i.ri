@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"typecast_timezone:ETI",Sequel::SequelMethods#typecast_timezone;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"CThe timezone that incoming data that Sequel needs to typecast ;TI"Cis assumed to be already in (if they don't include an offset).;T:
+@fileI"lib/sequel/timezones.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::SequelMethods;TcRDoc::NormalModule0

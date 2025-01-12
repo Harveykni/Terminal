@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"validation_context:ETI"LSequel::Plugins::ValidationContexts::InstanceMethods#validation_context;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?The validation context to use for the current validation. ;TI"BSet via the :validation_context option passed to save/valid?.;T:
+@fileI".lib/sequel/plugins/validation_contexts.rb;T:0@omit_headings_from_table_of_contents_below0F@I"9Sequel::Plugins::ValidationContexts::InstanceMethods;TcRDoc::NormalModule0

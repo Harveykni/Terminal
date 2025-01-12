@@ -1,0 +1,5 @@
+U:RDoc::Attr[iI"
+nanos:ETI"'Cucumber::Messages::Duration#nanos;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"JNon-negative fractions of a second at nanosecond resolution. Negative;To:RDoc::Markup::Verbatim;	[I"Lsecond values with fractions must still have non-negative nanos values
+;TI"?that count forward in time. Must be from 0 to 999,999,999
+;TI"inclusive.;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Cucumber::Messages::Duration;TcRDoc::NormalClass0

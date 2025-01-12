@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cti_tables:ETI"DSequel::Plugins::ClassTableInheritance::ClassMethods#cti_tables;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"CAn array of table symbols that back this model.  The first is ;TI"Htable symbol for the base model, and the last is the current model ;TI"table symbol.;T:
+@fileI"2lib/sequel/plugins/class_table_inheritance.rb;T:0@omit_headings_from_table_of_contents_below0F@I"9Sequel::Plugins::ClassTableInheritance::ClassMethods;TcRDoc::NormalModule0

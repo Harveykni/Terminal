@@ -1,0 +1,9 @@
+U:RDoc::AnyMethod[iI"
+check:ETI"PG::Result#check;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"LRaises appropriate exception if PG::Result is in a bad state, which is:;To:RDoc::Markup::List:
+@type:BULLET:@items[	o:RDoc::Markup::ListItem:@label0;	[o;
+;	[I"+PGRES_BAD_RESPONSE+;To;;0;	[o;
+;	[I"+PGRES_FATAL_ERROR+;To;;0;	[o;
+;	[I"+PGRES_NONFATAL_ERROR+;To;;0;	[o;
+;	[I"+PGRES_PIPELINE_ABORTED+;T:
+@fileI"ext/pg_result.c;T:0@omit_headings_from_table_of_contents_below0I"res.check -> nil
+;T0[[I"check_result;T@	I"();T@$FI"Result;TcRDoc::NormalClass00

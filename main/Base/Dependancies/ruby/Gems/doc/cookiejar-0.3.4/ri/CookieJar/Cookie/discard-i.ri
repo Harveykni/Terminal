@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"discard:ETI"CookieJar::Cookie#discard;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:
+LABEL:@items[o:RDoc::Markup::ListItem:@label[I"Boolean;T;	[o:RDoc::Markup::Paragraph;	[I"@RFC 2965 field for indicating session lifetime for a cookie;T:
+@fileI"lib/cookiejar/cookie.rb;T:0@omit_headings_from_table_of_contents_below0F@I"CookieJar::Cookie;TcRDoc::NormalClass0

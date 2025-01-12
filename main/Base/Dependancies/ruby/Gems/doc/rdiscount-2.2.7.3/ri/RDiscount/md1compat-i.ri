@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"md1compat:ETI"RDiscount#md1compat;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"RNot documented: run in markdown 1 compat mode (only used for MarkdownTest1.0);T:
+@fileI"lib/rdiscount.rb;T:0@omit_headings_from_table_of_contents_below0F@I"RDiscount;TcRDoc::NormalClass0

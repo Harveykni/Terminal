@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"touched_associations:ETI">Sequel::Plugins::Touch::ClassMethods#touched_associations;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"DA hash specifying the associations to touch when instances are ;TI"Hupdated or destroyed. Keys are association name symbols and values ;TI"are column name symbols.;T:
+@fileI" lib/sequel/plugins/touch.rb;T:0@omit_headings_from_table_of_contents_below0F@I")Sequel::Plugins::Touch::ClassMethods;TcRDoc::NormalModule0

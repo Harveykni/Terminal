@@ -1,0 +1,66 @@
+have_header: checking for CommonCrypto/CommonDigest.h... -------------------- no
+
+PATH=".;C:/Ruby33-x64/lib;C:\Ruby33-x64\bin;C:\Ruby33-x64\msys64\ucrt64\bin;C:\Ruby33-x64\msys64\usr\bin;C:\Ruby33-x64\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Harvey\AppData\Local\Programs\Python\Launcher\;C:\Users\Harvey\AppData\Local\Microsoft\WindowsApps;C:\Users\Harvey\.dotnet\tools;C:\Users\Harvey\AppData\Local\GitHubDesktop\bin;C:\Users\Harvey\AppData\Local\gitkraken\bin" "gcc -o conftest.exe -IC:/Ruby33-x64/include/ruby-3.3.0/x64-mingw-ucrt -IC:/Ruby33-x64/include/ruby-3.3.0/ruby/backward -IC:/Ruby33-x64/include/ruby-3.3.0 -I.  -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fno-fast-math -fstack-protector-strong conftest.c  -L. -LC:/Ruby33-x64/lib -L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed     -lx64-ucrt-ruby330  -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: int main(int argc, char **argv)
+6: {
+7:   return !!argv[argc];
+8: }
+/* end */
+
+PATH=".;C:/Ruby33-x64/lib;C:\Ruby33-x64\bin;C:\Ruby33-x64\msys64\ucrt64\bin;C:\Ruby33-x64\msys64\usr\bin;C:\Ruby33-x64\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Harvey\AppData\Local\Programs\Python\Launcher\;C:\Users\Harvey\AppData\Local\Microsoft\WindowsApps;C:\Users\Harvey\.dotnet\tools;C:\Users\Harvey\AppData\Local\GitHubDesktop\bin;C:\Users\Harvey\AppData\Local\gitkraken\bin" "gcc -IC:/Ruby33-x64/include/ruby-3.3.0/x64-mingw-ucrt -IC:/Ruby33-x64/include/ruby-3.3.0/ruby/backward -IC:/Ruby33-x64/include/ruby-3.3.0 -I.  -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fno-fast-math -fstack-protector-strong   -c conftest.c"
+conftest.c:5:10: fatal error: CommonCrypto/CommonDigest.h: No such file or directory
+    5 | #include <CommonCrypto/CommonDigest.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: #include <CommonCrypto/CommonDigest.h>
+/* end */
+
+--------------------
+
+have_type: checking for u_int8_t... -------------------- no
+
+PATH=".;C:/Ruby33-x64/lib;C:\Ruby33-x64\bin;C:\Ruby33-x64\msys64\ucrt64\bin;C:\Ruby33-x64\msys64\usr\bin;C:\Ruby33-x64\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Harvey\AppData\Local\Programs\Python\Launcher\;C:\Users\Harvey\AppData\Local\Microsoft\WindowsApps;C:\Users\Harvey\.dotnet\tools;C:\Users\Harvey\AppData\Local\GitHubDesktop\bin;C:\Users\Harvey\AppData\Local\gitkraken\bin" "gcc -IC:/Ruby33-x64/include/ruby-3.3.0/x64-mingw-ucrt -IC:/Ruby33-x64/include/ruby-3.3.0/ruby/backward -IC:/Ruby33-x64/include/ruby-3.3.0 -I.  -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fno-fast-math -fstack-protector-strong   -c conftest.c"
+conftest.c:7:9: error: unknown type name 'u_int8_t'; did you mean 'uint8_t'?
+    7 | typedef u_int8_t conftest_type;
+      |         ^~~~~~~~
+      |         uint8_t
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: 
+6: /*top*/
+7: typedef u_int8_t conftest_type;
+8: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_header: checking for sys/cdefs.h... -------------------- yes
+
+PATH=".;C:/Ruby33-x64/lib;C:\Ruby33-x64\bin;C:\Ruby33-x64\msys64\ucrt64\bin;C:\Ruby33-x64\msys64\usr\bin;C:\Ruby33-x64\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Harvey\AppData\Local\Programs\Python\Launcher\;C:\Users\Harvey\AppData\Local\Microsoft\WindowsApps;C:\Users\Harvey\.dotnet\tools;C:\Users\Harvey\AppData\Local\GitHubDesktop\bin;C:\Users\Harvey\AppData\Local\gitkraken\bin" "gcc -IC:/Ruby33-x64/include/ruby-3.3.0/x64-mingw-ucrt -IC:/Ruby33-x64/include/ruby-3.3.0/ruby/backward -IC:/Ruby33-x64/include/ruby-3.3.0 -I.  -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fno-fast-math -fstack-protector-strong   -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: #include <sys/cdefs.h>
+/* end */
+
+--------------------
+

@@ -1,0 +1,12 @@
+U:RDoc::Attr[iI"url:ETI"'Cucumber::Messages::Attachment#url;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*;To:RDoc::Markup::Verbatim;	[I"\A URL where the attachment can be retrieved. This field should not be set by Cucumber.
+;TI"ZIt should be set by a program that reads a message stream and does the following for
+;TI"each Attachment message:
+;TI"
+;TI"K- Writes the body (after base64 decoding if necessary) to a new file.
+;TI"3- Sets `body` and `contentEncoding` to `null`
+;TI"-- Writes out the new attachment message
+;TI"
+;TI"UThis will result in a smaller message stream, which can improve performance and
+;TI"hreduce bandwidth of message consumers. It also makes it easier to process and download attachments
+;TI"separately from reports.;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Cucumber::Messages::Attachment;TcRDoc::NormalClass0

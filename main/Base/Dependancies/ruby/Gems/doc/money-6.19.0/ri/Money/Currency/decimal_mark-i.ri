@@ -1,0 +1,36 @@
+U:RDoc::Attr[iI"decimal_mark:ETI"!Money::Currency#decimal_mark;TI"R;T:publico:RDoc::Markup::Document:@parts[!o:RDoc::Markup::Paragraph;	[I"@!attribute [r] id;To:RDoc::Markup::Verbatim;	[I"L@return [Symbol] The symbol used to identify the currency, usually THE
+;TI"'  lowercase +iso_code+ attribute.
+;T:@format0o;
+;	[I"@!attribute [r] priority;To;;	[I"G@return [Integer] A numerical value you can use to sort/group the
+;TI"  currency list.
+;T;0o;
+;	[I"@!attribute [r] iso_code;To;;	[I"L@return [String] The international 3-letter code as defined by the ISO
+;TI"  4217 standard.
+;T;0o;
+;	[I" @!attribute [r] iso_numeric;To;;	[I"M@return [String] The international 3-numeric code as defined by the ISO
+;TI"  4217 standard.
+;T;0o;
+;	[I"@!attribute [r] name;To;;	[I")@return [String] The currency name.
+;T;0o;
+;	[I"@!attribute [r] symbol;To;;	[I";@return [String] The currency symbol (UTF-8 encoded).
+;T;0o;
+;	[I"(@!attribute [r] disambiguate_symbol;To;;	[I"G@return [String] Alternative currency used if symbol is ambiguous
+;T;0o;
+;	[I" @!attribute [r] html_entity;To;;	[I">@return [String] The html entity for the currency symbol
+;T;0o;
+;	[I"@!attribute [r] subunit;To;;	[I"@@return [String] The name of the fractional monetary unit.
+;T;0o;
+;	[I"$@!attribute [r] subunit_to_unit;To;;	[I"G@return [Integer] The proportion between the unit and the subunit
+;T;0o;
+;	[I"!@!attribute [r] decimal_mark;To;;	[I"J@return [String] The decimal mark, or character used to separate the
+;TI"$  whole unit from the subunit.
+;T;0o;
+;	[I"(@!attribute [r] thousands_separator;To;;	[I"K@return [String] The character used to separate thousands grouping of
+;TI"  the whole unit.
+;T;0o;
+;	[I"!@!attribute [r] symbol_first;To;;	[I"I@return [Boolean] Should the currency symbol precede the amount, or
+;TI"  should it come after?
+;T;0o;
+;	[I"*@!attribute [r] smallest_denomination;To;;	[I"K@return [Integer] Smallest amount of cash possible (in the subunit of
+;TI"  this currency);T;0:
+@fileI"lib/money/currency.rb;T:0@omit_headings_from_table_of_contents_below0F@hI"Money::Currency;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"like_without_collate:ETI"8Sequel::MSSQL::DatabaseMethods#like_without_collate;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"UWhether to use LIKE without COLLATE Latin1_General_CS_AS.  Skipping the COLLATE ;TI":can significantly increase performance in some cases.;T:
+@fileI"(lib/sequel/adapters/shared/mssql.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Sequel::MSSQL::DatabaseMethods;TcRDoc::NormalModule0

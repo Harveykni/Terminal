@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"database_error:ETI"KSequel::TransactionConnectionValidator::DisconnectRetry#database_error;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"FThe underlying disconnect error, in case it needs to be reraised.;T:
+@fileI">lib/sequel/extensions/transaction_connection_validator.rb;T:0@omit_headings_from_table_of_contents_below0F@I"<Sequel::TransactionConnectionValidator::DisconnectRetry;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"command_in_context:ETI"9GLI::BadCommandOptionsOrArguments#command_in_context;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"3The command for which the argument was unknown;T:
+@fileI"lib/gli/exceptions.rb;T:0@omit_headings_from_table_of_contents_below0F@I"&GLI::BadCommandOptionsOrArguments;TcRDoc::NormalClass0

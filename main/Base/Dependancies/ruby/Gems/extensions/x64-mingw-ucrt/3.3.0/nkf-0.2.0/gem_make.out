@@ -1,0 +1,19 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/nkf-0.2.0/ext/nkf
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-9musj8 sitelibdir\=./.gem.20250110-1012-9musj8 clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-9musj8 sitelibdir\=./.gem.20250110-1012-9musj8
+generating nkf-x64-mingw-ucrt.def
+compiling nkf.c
+linking shared-object nkf.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-9musj8 sitelibdir\=./.gem.20250110-1012-9musj8 install
+/usr/bin/install -c -m 0755 nkf.so ./.gem.20250110-1012-9musj8
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-9musj8 sitelibdir\=./.gem.20250110-1012-9musj8 clean

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"#pg_auto_constraint_validations:ETI"^Sequel::Plugins::PgAutoConstraintValidations::ClassMethods#pg_auto_constraint_validations;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"PHash of metadata checked when an instance attempts to convert a constraint ;TI")violation into a validation failure.;T:
+@fileI"9lib/sequel/plugins/pg_auto_constraint_validations.rb;T:0@omit_headings_from_table_of_contents_below0F@I"?Sequel::Plugins::PgAutoConstraintValidations::ClassMethods;TcRDoc::NormalModule0

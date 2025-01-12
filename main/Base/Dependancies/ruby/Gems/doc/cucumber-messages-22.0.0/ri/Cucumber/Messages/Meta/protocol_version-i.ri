@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"protocol_version:ETI".Cucumber::Messages::Meta#protocol_version;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*;To:RDoc::Markup::Verbatim;	[I"EThe [SEMVER](https://semver.org/) version number of the protocol;T:@format0:
+@fileI""lib/cucumber/messages.dtos.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Cucumber::Messages::Meta;TcRDoc::NormalClass0

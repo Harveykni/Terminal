@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"messages:ETI"#TTY::Prompt::Question#messages;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"5Stores all the error messages displayed to user ;TI"*The currently supported messages are:;To:RDoc::Markup::Verbatim;	[I"* :range?
+;TI"* :required?
+;TI"* :valid?;T:@format0:
+@fileI"lib/tty/prompt/question.rb;T:0@omit_headings_from_table_of_contents_below0F@I"TTY::Prompt::Question;TcRDoc::NormalClass0

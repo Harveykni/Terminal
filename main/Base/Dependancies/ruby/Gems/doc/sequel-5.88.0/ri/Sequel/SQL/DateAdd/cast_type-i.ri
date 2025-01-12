@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cast_type:ETI"#Sequel::SQL::DateAdd#cast_type;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OThe type to cast the expression to.  nil if not overridden, in which cast ;TI">the generic timestamp type for the database will be used.;T:
+@fileI"-lib/sequel/extensions/date_arithmetic.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::SQL::DateAdd;TcRDoc::NormalClass0

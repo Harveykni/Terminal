@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"default_string_column_size:ETI"0Sequel::Database#default_string_column_size;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"cThe specific default size of string columns for this Sequel::Database, usually 255 by default.;T:
+@fileI" lib/sequel/database/misc.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Database;TcRDoc::NormalClassI"7 - Miscellaneous methods;T

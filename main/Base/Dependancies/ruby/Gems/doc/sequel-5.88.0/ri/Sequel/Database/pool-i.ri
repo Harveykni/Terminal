@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	pool:ETI"Sequel::Database#pool;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"RThe connection pool for this Database instance.  All Database instances have ;TI" their own connection pools.;T:
+@fileI"&lib/sequel/database/connecting.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::Database;TcRDoc::NormalClassI"N4 - Methods relating to adapters, connecting, disconnecting, and sharding;T

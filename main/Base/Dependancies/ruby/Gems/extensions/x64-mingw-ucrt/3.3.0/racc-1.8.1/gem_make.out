@@ -1,0 +1,19 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nzb18a sitelibdir\=./.gem.20250110-1012-nzb18a clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nzb18a sitelibdir\=./.gem.20250110-1012-nzb18a
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nzb18a sitelibdir\=./.gem.20250110-1012-nzb18a install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250110-1012-nzb18a/racc
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-nzb18a sitelibdir\=./.gem.20250110-1012-nzb18a clean

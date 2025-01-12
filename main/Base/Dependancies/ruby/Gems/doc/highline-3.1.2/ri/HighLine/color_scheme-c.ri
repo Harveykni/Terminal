@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"color_scheme:ETI"HighLine::color_scheme;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"5Pass ColorScheme to set a HighLine color scheme.;T:
+@fileI"lib/highline.rb;T:0@omit_headings_from_table_of_contents_below0T@I"HighLine;TcRDoc::NormalClass0

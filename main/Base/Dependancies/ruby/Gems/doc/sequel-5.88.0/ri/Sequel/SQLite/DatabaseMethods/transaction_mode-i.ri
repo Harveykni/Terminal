@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"transaction_mode:ETI"5Sequel::SQLite::DatabaseMethods#transaction_mode;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"BA symbol signifying the value of the default transaction mode;T:
+@fileI")lib/sequel/adapters/shared/sqlite.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Sequel::SQLite::DatabaseMethods;TcRDoc::NormalModule0

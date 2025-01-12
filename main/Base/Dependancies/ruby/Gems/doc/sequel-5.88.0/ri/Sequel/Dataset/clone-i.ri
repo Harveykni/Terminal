@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"
+clone:ETI"Sequel::Dataset#clone;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[	I"GReturns a new clone of the dataset with the given options merged. ;TI"NIf the options changed include options in COLUMN_CHANGE_OPTS, the cached ;TI"Fcolumns are deleted.  This method should generally not be called ;TI"directly by user code.;T:
+@fileI" lib/sequel/dataset/query.rb;T:0@omit_headings_from_table_of_contents_below000[[I"_clone;To;;	[o;
+;	[I"DSave original clone implementation, as some other methods need ;TI"to call it internally.;T;@;0I""(opts = nil || (return self));T@TI"Dataset;TcRDoc::NormalClassI".1 - Methods that return modified datasets;T0

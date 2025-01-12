@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"sti_key_array:ETI"HSequel::Plugins::SingleTableInheritance::ClassMethods#sti_key_array;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"GArray holding keys for all subclasses of this class, used for the ;TI"9dataset filter in subclasses. Nil in the main class.;T:
+@fileI"3lib/sequel/plugins/single_table_inheritance.rb;T:0@omit_headings_from_table_of_contents_below0F@I":Sequel::Plugins::SingleTableInheritance::ClassMethods;TcRDoc::NormalModule0

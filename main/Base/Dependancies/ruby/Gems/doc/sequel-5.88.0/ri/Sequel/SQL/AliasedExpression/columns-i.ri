@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"columns:ETI"+Sequel::SQL::AliasedExpression#columns;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"ZThe columns aliases (derived column list) to use, for when the aliased expression is ;TI"4a record or set of records (such as a dataset).;T:
+@fileI"lib/sequel/sql.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Sequel::SQL::AliasedExpression;TcRDoc::NormalClass0

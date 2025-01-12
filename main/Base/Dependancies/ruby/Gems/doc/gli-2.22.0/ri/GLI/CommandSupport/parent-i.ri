@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"parent:ETI"GLI::CommandSupport#parent;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"GThe parent of this command, either the GLI app, or another command;T:
+@fileI"lib/gli/command_support.rb;T:0@omit_headings_from_table_of_contents_below0F@I"GLI::CommandSupport;TcRDoc::NormalModule0

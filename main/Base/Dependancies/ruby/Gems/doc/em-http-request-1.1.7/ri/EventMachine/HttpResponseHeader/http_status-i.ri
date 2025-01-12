@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"http_status:ETI"1EventMachine::HttpResponseHeader#http_status;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I")The status code (integer - e.g. 200);T:
+@fileI"lib/em-http/http_header.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%EventMachine::HttpResponseHeader;TcRDoc::NormalClass0

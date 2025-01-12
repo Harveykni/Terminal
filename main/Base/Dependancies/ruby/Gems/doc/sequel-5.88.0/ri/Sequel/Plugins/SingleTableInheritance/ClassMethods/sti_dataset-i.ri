@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"sti_dataset:ETI"FSequel::Plugins::SingleTableInheritance::ClassMethods#sti_dataset;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AThe base dataset for STI, to which filters are added to get ;TI"3only the models for the specific STI subclass.;T:
+@fileI"3lib/sequel/plugins/single_table_inheritance.rb;T:0@omit_headings_from_table_of_contents_below0F@I":Sequel::Plugins::SingleTableInheritance::ClassMethods;TcRDoc::NormalModule0

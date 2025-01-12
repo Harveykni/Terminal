@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"driver:ETI""Sequel::JDBC::Database#driver;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"CThe Java database driver we are using (should be a Java class);T:
+@fileI" lib/sequel/adapters/jdbc.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::JDBC::Database;TcRDoc::NormalClass0

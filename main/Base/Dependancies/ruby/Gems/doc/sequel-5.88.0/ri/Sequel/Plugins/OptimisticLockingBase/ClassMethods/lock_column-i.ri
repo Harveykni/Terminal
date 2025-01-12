@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"lock_column:ETI"ESequel::Plugins::OptimisticLockingBase::ClassMethods#lock_column;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"/The column holding the version of the lock;T:
+@fileI"2lib/sequel/plugins/optimistic_locking_base.rb;T:0@omit_headings_from_table_of_contents_below0F@I"9Sequel::Plugins::OptimisticLockingBase::ClassMethods;TcRDoc::NormalModule0

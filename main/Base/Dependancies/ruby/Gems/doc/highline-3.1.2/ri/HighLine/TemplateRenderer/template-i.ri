@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"template:ETI"(HighLine::TemplateRenderer#template;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I".@return [ERB] ERB template being rendered;T:
+@fileI"&lib/highline/template_renderer.rb;T:0@omit_headings_from_table_of_contents_below0F@I"HighLine::TemplateRenderer;TcRDoc::NormalClass0

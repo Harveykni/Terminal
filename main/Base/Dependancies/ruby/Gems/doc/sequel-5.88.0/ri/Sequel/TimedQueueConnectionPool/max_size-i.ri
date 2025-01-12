@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"max_size:ETI".Sequel::TimedQueueConnectionPool#max_size;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"=The maximum number of connections this pool will create.;T:
+@fileI".lib/sequel/connection_pool/timed_queue.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Sequel::TimedQueueConnectionPool;TcRDoc::NormalClass0

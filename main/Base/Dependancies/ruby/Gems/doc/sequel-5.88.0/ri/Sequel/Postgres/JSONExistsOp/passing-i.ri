@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"passing:ETI"+Sequel::Postgres::JSONExistsOp#passing;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"1Variables to set in the JSON path expression;T:
+@fileI")lib/sequel/extensions/pg_json_ops.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Sequel::Postgres::JSONExistsOp;TcRDoc::NormalClass0

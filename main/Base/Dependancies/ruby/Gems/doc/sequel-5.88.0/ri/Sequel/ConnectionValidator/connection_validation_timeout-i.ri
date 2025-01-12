@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI""connection_validation_timeout:ETI">Sequel::ConnectionValidator#connection_validation_timeout;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[	I"3The number of seconds that need to pass since ;TI"6connection checkin before attempting to validate ;TI"8the connection when checking it out from the pool. ;TI"'Defaults to 3600 seconds (1 hour).;T:
+@fileI"2lib/sequel/extensions/connection_validator.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Sequel::ConnectionValidator;TcRDoc::NormalModule0

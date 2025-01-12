@@ -1,0 +1,6 @@
+U:RDoc::Attr[iI"	bank:ETI"Money#bank;TI"R;T:publico:RDoc::Markup::Document:@parts[	o:RDoc::Markup::Paragraph;	[I"@!attribute [r] currency;To:RDoc::Markup::Verbatim;	[I".@return [Currency] The money's currency.
+;T:@format0o;
+;	[I"@!attribute [r] bank;To;;	[I"O@return [Money::Bank::Base] The +Money::Bank+-based object which currency
+;TI"$  exchanges are performed with.;T;0:
+@fileI"lib/money/money.rb;T:0@omit_headings_from_table_of_contents_below0F@I"
+Money;TcRDoc::NormalClass0

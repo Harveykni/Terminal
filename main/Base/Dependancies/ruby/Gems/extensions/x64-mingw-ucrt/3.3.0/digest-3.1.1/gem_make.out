@@ -1,0 +1,23 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/digest-3.1.1/ext/digest/sha2
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for CommonCrypto/CommonDigest.h... no
+checking for u_int8_t... no
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-25s2d1 sitelibdir\=./.gem.20250110-1012-25s2d1 clean
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-25s2d1 sitelibdir\=./.gem.20250110-1012-25s2d1
+generating sha2-x64-mingw-ucrt.def
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.so
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-25s2d1 sitelibdir\=./.gem.20250110-1012-25s2d1 install
+/usr/bin/install -c -m 0755 sha2.so ./.gem.20250110-1012-25s2d1/digest
+
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20250110-1012-25s2d1 sitelibdir\=./.gem.20250110-1012-25s2d1 clean

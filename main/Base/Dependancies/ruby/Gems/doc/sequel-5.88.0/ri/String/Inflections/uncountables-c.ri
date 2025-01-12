@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"uncountables:ETI"&String::Inflections::uncountables;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"UArray of strings for words were the singular form is the same as the plural form;T:
+@fileI"'lib/sequel/extensions/inflector.rb;T:0@omit_headings_from_table_of_contents_below0T@I"String::Inflections;TcRDoc::NormalModule0

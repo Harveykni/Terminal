@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"autoreloading_associations:ETI"ISequel::Model::Associations::ClassMethods#autoreloading_associations;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<Hash with column symbol keys and arrays of many_to_one ;TI"@association symbols that should be cleared when the column ;TI"value changes.;T:
+@fileI"%lib/sequel/model/associations.rb;T:0@omit_headings_from_table_of_contents_below0F@I".Sequel::Model::Associations::ClassMethods;TcRDoc::NormalModule0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"'connection_expiration_random_delay:ETI"DSequel::ConnectionExpiration#connection_expiration_random_delay;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"bThe maximum number of seconds that will be added as a random delay to the expiration timeout ;TI"-Defaults to 0 seconds (no random delay).;T:
+@fileI"3lib/sequel/extensions/connection_expiration.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Sequel::ConnectionExpiration;TcRDoc::NormalModule0

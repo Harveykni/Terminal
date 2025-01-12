@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	name:ETI"HighLine::Style#name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"Style name ;TI"+@return [Symbol] the name of the Style;T:
+@fileI"lib/highline/style.rb;T:0@omit_headings_from_table_of_contents_below0F@I"HighLine::Style;TcRDoc::NormalClass0

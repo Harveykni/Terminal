@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"length:ETI"PG::Tuple#length;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I",Returns number of fields of this tuple.;T:
+@fileI"ext/pg_tuple.c;T:0@omit_headings_from_table_of_contents_below0I"tup.length → integer
+;T0[[I"	size;T@	I"();T@FI"
+Tuple;TcRDoc::NormalClass00

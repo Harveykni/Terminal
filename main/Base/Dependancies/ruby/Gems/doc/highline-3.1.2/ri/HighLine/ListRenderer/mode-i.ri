@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	mode:ETI" HighLine::ListRenderer#mode;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"B@return [Symbol] the current mode the List is being rendered ;TI"H@see #initialize for more details see mode parameter of #initialize;T:
+@fileI""lib/highline/list_renderer.rb;T:0@omit_headings_from_table_of_contents_below0F@I"HighLine::ListRenderer;TcRDoc::NormalClass0

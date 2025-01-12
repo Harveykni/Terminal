@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"output:ETI" Sequel::Deprecation::output;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"\Where deprecation messages should be output, must respond to puts.  $stderr by default.;T:
+@fileI"lib/sequel/deprecated.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Sequel::Deprecation;TcRDoc::NormalModule0

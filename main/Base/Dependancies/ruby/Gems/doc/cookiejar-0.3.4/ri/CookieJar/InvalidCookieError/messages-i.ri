@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"messages:ETI"+CookieJar::InvalidCookieError#messages;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:
+LABEL:@items[o:RDoc::Markup::ListItem:@label[I"Array<String>;T;	[o:RDoc::Markup::Paragraph;	[I"/the specific validation issues encountered;T:
+@fileI"'lib/cookiejar/cookie_validation.rb;T:0@omit_headings_from_table_of_contents_below0F@I""CookieJar::InvalidCookieError;TcRDoc::NormalClass0

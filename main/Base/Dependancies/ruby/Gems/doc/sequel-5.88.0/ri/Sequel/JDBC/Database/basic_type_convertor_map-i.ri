@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"basic_type_convertor_map:ETI"4Sequel::JDBC::Database#basic_type_convertor_map;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"ZMap of JDBC type ids to callable objects that return appropriate ruby or java values.;T:
+@fileI" lib/sequel/adapters/jdbc.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::JDBC::Database;TcRDoc::NormalClass0

@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"finish:ETI"PG::Connection#finish;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"#Closes the backend connection.;T:
+@fileI"ext/pg_connection.c;T:0@omit_headings_from_table_of_contents_below0I"conn.finish
+;T0[[I"
+close;T@	I"();T@FI"Connection;TcRDoc::NormalClass00

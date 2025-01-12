@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"application_timezone:ETI"/Sequel::SequelMethods#application_timezone;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IThe timezone you want the application to use.  This is the timezone ;TI"Lthat incoming times from the database and typecasting are converted to.;T:
+@fileI"lib/sequel/timezones.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sequel::SequelMethods;TcRDoc::NormalModule0

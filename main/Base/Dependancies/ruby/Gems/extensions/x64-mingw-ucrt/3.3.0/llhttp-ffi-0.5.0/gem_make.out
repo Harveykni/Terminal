@@ -1,0 +1,8 @@
+current directory: C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/gems/llhttp-ffi-0.5.0/ext
+C:/Ruby33-x64/bin/ruby.exe -rrubygems C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/rake-13.1.0/exe/rake RUBYARCHDIR\=C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/extensions/x64-mingw-ucrt/3.3.0/llhttp-ffi-0.5.0 RUBYLIBDIR\=C:/Users/Harvey/AppData/Local/terminal/base/Dependancies/ruby/Gems/extensions/x64-mingw-ucrt/3.3.0/llhttp-ffi-0.5.0
+gcc -fexceptions "-O" "-fno-omit-frame-pointer" "-fno-strict-aliasing" "-fPIC" -o "x86_64-windows/llhttp/llhttp_ext.o" -c "./llhttp/llhttp_ext.c"
+gcc -fexceptions "-O" "-fno-omit-frame-pointer" "-fno-strict-aliasing" "-fPIC" -o "x86_64-windows/llhttp/api.o" -c "./llhttp/api.c"
+gcc -fexceptions "-O" "-fno-omit-frame-pointer" "-fno-strict-aliasing" "-fPIC" -o "x86_64-windows/llhttp/http.o" -c "./llhttp/http.c"gcc -fexceptions "-O" "-fno-omit-frame-pointer" "-fno-strict-aliasing" "-fPIC" -o "x86_64-windows/llhttp/llhttp.o" -c "./llhttp/llhttp.c"
+
+gcc -shared -o "x86_64-windows/llhttp-ext.dll" x86_64-windows/llhttp/api.o "x86_64-windows/llhttp/http.o" "x86_64-windows/llhttp/llhttp.o" "x86_64-windows/llhttp/llhttp_ext.o" -fexceptions 
+mkdir -p x86_64-windows/llhttp

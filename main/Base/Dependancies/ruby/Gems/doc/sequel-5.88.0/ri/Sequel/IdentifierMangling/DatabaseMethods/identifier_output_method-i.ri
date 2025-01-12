@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"identifier_output_method:ETI"ISequel::IdentifierMangling::DatabaseMethods#identifier_output_method;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"`The identifier output method to use by default for this database (default: adapter default);T:
+@fileI"1lib/sequel/extensions/identifier_mangling.rb;T:0@omit_headings_from_table_of_contents_below0F@I"0Sequel::IdentifierMangling::DatabaseMethods;TcRDoc::NormalModule0

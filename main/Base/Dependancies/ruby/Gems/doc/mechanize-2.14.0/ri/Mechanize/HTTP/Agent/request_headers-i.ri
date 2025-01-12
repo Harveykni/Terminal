@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"request_headers:ETI"+Mechanize::HTTP::Agent#request_headers;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I";A hash of request headers to be used for every request;T:
+@fileI" lib/mechanize/http/agent.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Mechanize::HTTP::Agent;TcRDoc::NormalClassI"Headers;T
