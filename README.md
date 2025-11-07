@@ -32,3 +32,4 @@ ruby.exe = %ruby% or getenv('Ruby')
 
 
 ### I forgot this even existed XDDD
+### 2nd time i've forgotten this, might port it to linux ngl, ill work on a reprogram of it in C.
